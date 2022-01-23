@@ -167,9 +167,9 @@ ul.nav-list li{
     width: 28%;
     text-align: center;
     border: 1px solid gray;
-    border-radius: 10px;
+    border-radius: 70px;
     box-shadow: 5px 5px gray;
-    margin: 10px;
+    margin: 50px 10px;
     padding: 20px;
 }
 
@@ -252,6 +252,23 @@ ul.nav-list li{
       border-radius: 10px;
   }
 
+  .wrapper {
+      width: 69px;
+  }
+
+  .num {
+    width: 14%;
+    border: none;
+    background-color: #E1EBE6;
+    font-size: 16px;
+  }
+
+  .plusminus {
+      color: green;
+      border: none;
+      font-size: 20px;
+  }
+
   .decker {
       height: 500px;
       float: right;
@@ -288,6 +305,7 @@ ul.nav-list li{
     background-color: #E1EBE6;
     width: 100%;
     display: inline-block;
+    margin-top: 70px;
 }
 
 .section5 {
@@ -315,8 +333,32 @@ ul.nav-list li{
 }
 
 .tab {
-    width: 28%;
+    width: 30%;
     display: inline-block;
+}
+
+.logotab {
+    vertical-align: top;
+    margin-top: 60px;
+}
+
+.subscribetab {
+    vertical-align: top;
+    margin-top: 40px;
+}
+
+.subscribe {
+    height: 40px;
+}
+
+input.subscribe {
+    width: 230px;
+}
+
+button.subscribe {
+    background-color: orange;
+    color: white;
+    border: 1px solid orange;
 }
 
 .store {
@@ -325,4 +367,24 @@ ul.nav-list li{
 
 .appstore {
     height: 86px;
+}
+
+.maplist {
+    list-style: none;
+}
+
+footer {
+    background-color: #E1EBE6;
+}
+
+.footer {
+    width: 28%;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.social {
+    height: 20px;
+    display: inline-block;
+    margin: 5px;
 }

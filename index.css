@@ -277,6 +277,7 @@ ul.nav-list li{
   .decker1 {
     margin-right: -460px;
     margin-top: 90px;
+    margin-bottom: 100px;
   }
 
   .deckertxt {
@@ -294,6 +295,8 @@ ul.nav-list li{
 
   .east {
       font-size: 65px!important;
+      vertical-align: top;
+      margin-top: 118px;
   }
 
   .dot3{
@@ -312,6 +315,8 @@ ul.nav-list li{
     background-color: orange;
     width: 100%;
     display: inline-block;
+    padding-top: 90px;
+    padding-bottom: 80px;
 }
 
 .mobile {

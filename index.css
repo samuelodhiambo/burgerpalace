@@ -39,6 +39,16 @@ h1{
     font-size: xx-large;
 }
 
+li.active a {
+    text-decoration: underline orange 10px;
+    color: black;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+}
+
 .black{
     color: black;
 }
@@ -85,7 +95,7 @@ ul.nav-list li{
 .dine {
     float: right;
     height: 500px;
-    margin-right: 100px;
+    margin-right: 240px;
 }
 
 .sh {
@@ -105,6 +115,10 @@ ul.nav-list li{
     padding: 20px;
     margin-left: 100px;
     margin-top: 25px;
+}
+
+.order-btn:hover {
+    cursor: pointer;
 }
 
 .section2 {
@@ -236,6 +250,10 @@ ul.nav-list li{
       padding: 18px;
       border: 0px #E1EBE6;
       border-radius: 10px;
+  }
+
+  .scart:hover {
+      cursor: pointer;
   }
 
   .wrapper {

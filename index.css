@@ -375,6 +375,10 @@ button.subscribe {
     height: 86px;
 }
 
+.storeicons a {
+    text-decoration: none;
+}
+
 .maplist {
     list-style: none;
 }

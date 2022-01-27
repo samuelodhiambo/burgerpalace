@@ -399,3 +399,7 @@ footer {
     display: inline-block;
     margin: 5px;
 }
+
+.footer a {
+    text-decoration: none;
+}

@@ -1,0 +1,57 @@
+@media screen and (max-width: 900px) {
+    * {
+        /*margin: 0px!important;*/
+    }
+
+    .logo{
+        margin-left: 0px;
+    }
+
+    .right {
+        margin-right: 0px;
+    }
+
+    .stext {
+        margin-left: 0px;
+    }
+
+    .dine {
+        margin-right: 40px;
+    }
+
+    .quality, .fast, .delicious {
+        width: 25%;
+    }
+
+    .tile {
+        width: 25%;
+    }
+
+    .decker {
+        height: 400px;
+    }
+
+    .readmore {
+        position: absolute;
+    }
+
+    .mobile {
+        margin: 2px;
+    }
+
+    .storeicons {
+        height: 86px;
+    }
+
+    .mobiletxt {
+        font-size: 26px;
+    }
+
+    input.subscribe {
+        width: 160px;
+    }
+
+    .footer {
+        width: 25%;
+    }
+}
